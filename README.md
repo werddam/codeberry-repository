@@ -1,2 +1,2 @@
 # codeberry-repository
-Codeberry faladatok
+Codeberry feladatok
